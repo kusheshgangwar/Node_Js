@@ -1,0 +1,22 @@
+.card-container{
+    display: flex;
+}
+
+.btn-container{
+    margin: 20px 0px;
+    text-align: center;
+    /* border: 2px solid black; */
+}
+
+#minus-btn{
+    border: 2px solid black;
+}
+
+#plus-btn{
+    border: 2px solid black; 
+}
+
+#number{
+    border: 2px solid black;
+}
+

@@ -1,0 +1,9 @@
+.card{
+    border: 2px solid black;
+    margin:0 10px;
+}
+
+.card span{
+    border: 2px solid blue;
+    margin: 0 10px;
+}
